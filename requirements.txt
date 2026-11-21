@@ -1,0 +1,13 @@
+
+streamlit
+fastapi
+uvicorn
+google-genai
+python-dotenv
+pymupdf
+pyautogui
+pygetwindow
+pillow
+pytesseract
+requests
+python-multipart
